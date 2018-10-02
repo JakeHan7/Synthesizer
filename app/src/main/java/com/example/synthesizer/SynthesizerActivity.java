@@ -509,6 +509,15 @@ public class SynthesizerActivity extends AppCompatActivity implements View.OnCli
         scale.add(new Note(noteBb));
         scale.add(new Note(noteB));
         scale.add(new Note(noteC));
+        scale.add(new Note(noteCs));
+        scale.add(new Note(noteD));
+        scale.add(new Note(noteDs));
+        scale.add(new Note(noteE));
+        scale.add(new Note(noteF));
+        scale.add(new Note(noteFs));
+        scale.add(new Note(noteG));
+        scale.add(new Note(noteGs));
+        scale.add(new Note(notehighA));
 
 
             playSong(scale);
